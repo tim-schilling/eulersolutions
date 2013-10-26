@@ -1,7 +1,5 @@
 __author__ = 'schillingt'
-__author__ = 'schillingt'
 import time
-from operator import itemgetter
 
 
 def get_level_sum(level):
